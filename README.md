@@ -1,3 +1,3 @@
 A study on recursion.
 
-![ScreenShot](/assets/recurse.png)
+![ScreenShot](/Images for Readme/recurse.png)
